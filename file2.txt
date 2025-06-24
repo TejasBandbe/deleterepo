@@ -3,3 +3,5 @@ base line
 this line is required and added before resetting brach.
 This line is also required, but added incorrecly.
 This newly added line.
+
+second commit

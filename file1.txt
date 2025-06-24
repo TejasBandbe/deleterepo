@@ -1,2 +1,4 @@
 file 1 content
 This line is not required.
+
+second commit
