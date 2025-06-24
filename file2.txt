@@ -5,3 +5,5 @@ This line is also required, but added incorrecly.
 This newly added line.
 
 second commit
+
+third commit
